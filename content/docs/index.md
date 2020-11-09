@@ -1,7 +1,7 @@
 ---
 title: TinaCMS Documentation
 id: introduction
-last_edited: '2020-11-09T09:41:09.715Z'
+last_edited: '2020-11-09T09:41:31.174Z'
 ---
 Tina is a **toolkit for building content management systems.** By creating a custom CMS with Tina instead of opting for a conventional, "turn-key" solution, developers that use Tina have a lot more control over the editing experience of their users.
 
@@ -10,7 +10,9 @@ Tina is a **toolkit for building content management systems.** By creating a cus
 Are you new to using Tina to build content management systems? Start with these resources to build your understanding of Tina and what's possible.
 
 * Go through the [**Getting Started Tutorial**](/docs/getting-started/introduction "Getting Started"): [Installing ](/docs/getting-started/cms-set-up#install-tinacms)_[tinacms](/docs/getting-started/cms-set-up#install-tinacms)_ | [Creating a CMS instance and adding the ](/docs/getting-started/cms-set-up#create-a-cms-instance-add-tinaprovider)_[TinaProvider](/docs/getting-started/cms-set-up#create-a-cms-instance-add-tinaprovider)_
-  | [Configuring the CMS object](/docs/getting-started/cms-set-up#configure-the-cms-object)  | [Creating and registering a form plugin](/docs/getting-started/edit-content#create--register-a-form)
+  | [Configuring the CMS object](/docs/getting-started/cms-set-up#configure-the-cms-object)
+  | [Enabling the CMS](/docs/getting-started/cms-set-up#enabling-the-cms)
+  | [Creating and registering a form plugin](/docs/getting-started/edit-content#create--register-a-form)
   | [Loading content from an external API](/docs/getting-started/backends#loading-content-from-an-external-api)
   | [Saving content changes](/docs/getting-started/backends#saving-content)
   | [Adding alerts](/docs/getting-started/backends#adding-alerts)
