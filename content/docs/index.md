@@ -1,9 +1,9 @@
 ---
 title: TinaCMS Documentation
 id: introduction
-last_edited: '2020-11-09T09:41:31.174Z'
+last_edited: '2020-11-09T09:41:47.209Z'
 ---
-Tina is a **toolkit for building content management systems.** By creating a custom CMS with Tina instead of opting for a conventional, "turn-key" solution, developers that use Tina have a lot more control over the editing experience of their users.
+**Tina** is a **toolkit for building content management systems.** By creating a custom CMS with Tina instead of opting for a conventional, "turn-key" solution, developers that use Tina have a lot more control over the editing experience of their users.
 
 ## First Steps
 
